@@ -1,1 +1,3 @@
 # proyect-individ
+frutas
+verduras
